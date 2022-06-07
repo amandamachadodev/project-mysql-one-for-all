@@ -11,7 +11,7 @@ CREATE TABLE SpotifyClone.artistas(
 
 INSERT INTO SpotifyClone.artistas(artista_id, artista)
 VALUES
-  (1, 'Walter Poenix'),
+  (1, 'Walter Phoenix'),
   (2, 'Freedie Shannon'),
   (3, 'Lance Day'),
   (4, 'Peter Strong'),
